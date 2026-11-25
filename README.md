@@ -6,9 +6,10 @@ Sistema em Python, executado pelo terminal, para gerenciar o acervo de livros de
 
 ## Integrantes
 
-- NOME DO INTEGRANTE 1
-- NOME DO INTEGRANTE 2
-- NOME DO INTEGRANTE 3
+- Antonio da Silva dos Reis
+- Isaac Camargo Severo
+- Kaio Eduardo Camargo Severo
+- Luiz Henrique Alves Benedito
 
 ## Funcionalidades
 
